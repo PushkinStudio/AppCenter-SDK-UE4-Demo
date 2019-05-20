@@ -1,0 +1,3 @@
+[submodule "Plugins/AppCenter"]
+	path = Plugins/AppCenter
+	url = ../AppCenter-SDK-UE4.git
